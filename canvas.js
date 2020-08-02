@@ -15,7 +15,7 @@ function Ball() {
     this.x = cvWidth * 0.5;
     this.y = cvHeigth * 0.5;
     this.yVel = 0;
-    this.yAcc = 2;
+    this.yAcc = 1;
     this.radius = 15;
 
     this.draw = function () {
