@@ -33,7 +33,7 @@ function Ball() {
 
     this.hop = function (event) {
         if (event.key === " " || event.type === "mousedown") {
-            this.yVel += -15;
+            this.yVel += -20;
         }
     }
 
