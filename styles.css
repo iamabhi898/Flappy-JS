@@ -13,6 +13,7 @@ h1 {
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0.15;
+    user-select: none;
 }
 
 .score {
@@ -25,6 +26,7 @@ h1 {
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0.15;
+    user-select: none;
 }
 
 .highscore {
@@ -37,6 +39,7 @@ h1 {
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0.3;
+    user-select: none;
 }
 
 .canvas {
